@@ -1,5 +1,5 @@
-# Solving Problems with C# & JavaScript
-Solving problems from Beecrowd, LeetCode and HackerRank using Csharp and JavaScript language.
+# Solving Problems with C#
+Solving problems from Beecrowd, LeetCode and HackerRank using Csharp.
 
 ## Problems Solved
 
